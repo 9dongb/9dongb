@@ -4,6 +4,14 @@ welcome to my page !
 
 I'm Dong Bin  
 
+### My GitHub
+<a href="https://github.com/9dongb/9dongb/stargazers"><img src="https://img.shields.io/github/stars/9dongb/9dongb" alt="Stars Badge"/></a>
+<a href="https://github.com/9dongb/9dongb/network/members"><img src="https://img.shields.io/github/forks/9dongb/9dongb" alt="Forks Badge"/></a>
+<a href="https://github.com/9dongb/9dongb/pulls"><img src="https://img.shields.io/github/issues-pr/9dongb/9dongb" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/9dongb/9dongb/issues"><img src="https://img.shields.io/github/issues/9dongb/9dongb" alt="Issues Badge"/></a>
+<a href="https://github.com/9dongb/9dongb/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/9dongb/9dongb?color=2b9348"></a>
+<a href="https://github.com/9dongb/9dongb/blob/master/LICENSE"><img src="https://img.shields.io/github/license/9dongb/9dongb?color=2b9348" alt="License Badge"/></a>
+
 
 ### My tech stack 🌱
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
