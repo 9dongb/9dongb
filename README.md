@@ -1,5 +1,15 @@
-### Hi there 👋
+## 👋 Nice to see you !
 
+welcome to my page !
+
+I'm Dong Bin  
+
+
+### My tech stack 🌱
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+
+### My SNS
+<a href="https://www.instagram.com/9_dong_b"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/9_dong_b"/>
 <!--
 **9dongb/9dongb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
