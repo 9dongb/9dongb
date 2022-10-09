@@ -2,7 +2,7 @@
 
 welcome to my page !
 
-I'm Dong Bin  
+I'm Dong Bin, Student from Dongyang Mirae Univ.
 
 ### My GitHub
 <a href="https://github.com/9dongb/9dongb/stargazers"><img src="https://img.shields.io/github/stars/9dongb/9dongb" alt="Stars Badge"/></a>
