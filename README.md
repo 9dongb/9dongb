@@ -1,10 +1,9 @@
-## 👋 Nice to see you !
+<div align="center">  
 
-welcome to my page !
+![header](https://capsule-render.vercel.app/api?type=Slice&color=A3DCBE&height=300&section=header&text=DongBin%20Gu&fontSize=90&desc=Dongyang%20Mirae%20University&descSize=30desc=Desc&descAlignY=80)  
 
-I'm Dong Bin, Student from Dongyang Mirae Univ.
 
-### My GitHub 🌱
+### MyGitHub🌱
 <a href="https://github.com/9dongb/9dongb/stargazers"><img src="https://img.shields.io/github/stars/9dongb/9dongb" alt="Stars Badge"/></a>
 <a href="https://github.com/9dongb/9dongb/network/members"><img src="https://img.shields.io/github/forks/9dongb/9dongb" alt="Forks Badge"/></a>
 <a href="https://github.com/9dongb/9dongb/pulls"><img src="https://img.shields.io/github/issues-pr/9dongb/9dongb" alt="Pull Requests Badge"/></a>
@@ -18,6 +17,7 @@ I'm Dong Bin, Student from Dongyang Mirae Univ.
 
 ### My SNS 💬
 <a href="https://www.instagram.com/9_dong_b"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/9_dong_b"/>
+</div>
 <!--
 **9dongb/9dongb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
