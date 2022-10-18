@@ -9,7 +9,6 @@
 <a href="https://github.com/9dongb/9dongb/pulls"><img src="https://img.shields.io/github/issues-pr/9dongb/9dongb" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/9dongb/9dongb/issues"><img src="https://img.shields.io/github/issues/9dongb/9dongb" alt="Issues Badge"/></a>
 <a href="https://github.com/9dongb/9dongb/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/9dongb/9dongb?color=2b9348"></a>
-<a href="https://github.com/9dongb/9dongb/blob/master/LICENSE"><img src="https://img.shields.io/github/license/9dongb/9dongb?color=2b9348" alt="License Badge"/></a>
 
 
 ### My Study 📚
