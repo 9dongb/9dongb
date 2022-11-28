@@ -28,7 +28,7 @@
 <a href="https://www.instagram.com/9_dong_b"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/9_dong_b"/>  
   
 ## My GitHub Stats 📌
-[![9dongbS's GitHub stats](https://github-readme-stats.vercel.app/api?username=9dongb)](https://github.com/9dongb/github-readme-stats)
+![9dongb's GitHub stats](https://github-readme-stats.vercel.app/api?username=9dongb&show_icons=true&theme=moltack)
   
 ![footer](https://capsule-render.vercel.app/api?type=Slice&color=A3DCBE&height=200&section=footer&text=%20&fontSize=90)
   
