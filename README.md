@@ -3,11 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=A3DCBE&height=300&section=header&text=DongBin%20Gu&fontSize=90&desc=Dongyang%20Mirae%20University&descSize=30desc=Desc&descAlignY=80)  
 
 
-## My GitHub🌱
-
-## [[오픈소스소프트웨어교과목] 과제 저장소](https://github.com/9dongb/My-OSS)
-
-
 ## My Study 📚
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
