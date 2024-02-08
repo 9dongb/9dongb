@@ -1,6 +1,6 @@
 <div align="center">  
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=A3DCBE&height=300&section=header&text=DongBin%20Gu&fontSize=90&desc=Dongyang%20Mirae%20University&descSize=30desc=Desc&descAlignY=80)  
+![header](https://capsule-render.vercel.app/api?type=Slice&color=A3DCBE&height=300&section=header&text=DongBin%20Gu&fontSize=90&desc=%20%20&descSize=30desc=Desc&descAlignY=80)  
 
 
 ## My Study 📚
